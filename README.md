@@ -60,15 +60,18 @@
 
 🔹 [Portfolio Website](https://portfolio-website-nu-olive.vercel.app/) – My personal interactive portfolio deployed via Vercel.
 
+
+
 ### 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:abhiithakur0904@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-majila/">
+  <a href="https://www.linkedin.com/in/abhishek-majila-330a6b328"">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
  💬 “Code with curiosity, build with purpose, and grow with every challenge."
